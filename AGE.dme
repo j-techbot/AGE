@@ -1,0 +1,21 @@
+// DM Environment file for AGE.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "datums\game.dm"
+#include "datums\game_timer.dm"
+#include "datums\game_window.dm"
+#include "datums\math_helper.dm"
+// END_INCLUDE
+
