@@ -16,6 +16,6 @@
 #include "datums\game.dm"
 #include "datums\game_timer.dm"
 #include "datums\game_window.dm"
-#include "datums\math_helper.dm"
+#include "datums\math.dm"
 // END_INCLUDE
 

@@ -5,6 +5,7 @@ GameTimer
 		*/
 		start()
 
+
 		/*	Stops the GameTimer instance from firing actions.
 		*/
 		stop()

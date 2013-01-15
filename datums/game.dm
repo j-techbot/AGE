@@ -1,6 +1,10 @@
 Game
 	proc
 
+		/*	Updates the game. (i.e., handles game logic)
+		*/
+		update()
+
 		/*	[override] Exits the game.
 		*/
 		exit()

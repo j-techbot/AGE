@@ -19,7 +19,8 @@ Math
 		toRadians(degrees)
 			return degrees * PI / 180
 
-		/* 	Lineraly interploates between two values.
+
+		/* 	Lineraly interpolates between two values.
 			@param a Source value.
 			@param b Source value.
 			@param f A value between 0 and 1 indicating the weight of [b]

@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
+WINDOW: datums\game.dm;datums\game_timer.dm;datums\game_window.dm;datums\math.dm
 LAST_COMPILE_VERSION: 498.1158
-WINDOW: datums\game.dm;datums\game_timer.dm;datums\game_window.dm;datums\math_helper.dm
 DIR: datums 
 FILE: datums\game.dm
-LAST_COMPILE_TIME: 1358107766
+LAST_COMPILE_TIME: 1358211941
 AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
